@@ -1,0 +1,25 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "Website for tropicali restaurant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moysey1987/tropicali.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Nigel Moyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moysey1987/tropicali/issues"
+  },
+  "homepage": "https://github.com/moysey1987/tropicali#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
